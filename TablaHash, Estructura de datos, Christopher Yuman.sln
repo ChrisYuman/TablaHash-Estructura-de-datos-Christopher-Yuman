@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TablaHash, Estructura de datos, Christopher Yuman", "TablaHash, Estructura de datos, Christopher Yuman\TablaHash, Estructura de datos, Christopher Yuman.csproj", "{32FF53BB-D53F-4BBD-8E40-238ECB4FF6E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FF53BB-D53F-4BBD-8E40-238ECB4FF6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FF53BB-D53F-4BBD-8E40-238ECB4FF6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FF53BB-D53F-4BBD-8E40-238ECB4FF6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FF53BB-D53F-4BBD-8E40-238ECB4FF6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B9D6CDC-0E2D-4DF4-A459-F5A7A1BF5B11}
+	EndGlobalSection
+EndGlobal
